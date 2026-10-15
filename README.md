@@ -40,4 +40,4 @@ Building and shipping products where security and clean system/architecture desi
 
 ## Get in touch
 
-femiwebfullstack@gmail.com · [ojayy.vercel.app](https://ojayy.vercel.app)
+femiwebfullstack@gmail.com 
